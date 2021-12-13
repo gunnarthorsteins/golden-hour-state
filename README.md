@@ -1,6 +1,6 @@
 # golden-hour-state
 
-California solar irradiance analysis using meteorological data from 1998-2019. Initially developed as final project for the course Environmental Data Analysis, but since completely overhauled. I say *overhauled*, but it still has the legacy issue of being basically just one file.
+California solar irradiance analysis using meteorological data from 1998-2019. Initially developed as final project for the course Environmental Data Analysis in collaboration with my friend Mark Goldman, but since overhauled. I say *overhauled*, but it still has the legacy issue of being basically just one file.
 
 Dataset is from The National Renewable Energy Laboratory, a national laboratory of the U.S. Department of Energy.
 
@@ -11,5 +11,7 @@ The NSRDB deploys geostationary satellites that collect raw data in the form of 
 Direct Normal Irradiance (`DNI`) is the key variable here, as it is directly proportional to solar power potential (Schlecht & Meyer, 2012)
 
 I know what you're thinking, how did he miss the golden opportunity to name this repo *Let the Sunshine In*, referencing the third best musical in history, after of course Jesus Christ Superstar (all hail ALW) and Grease (*everybody* gets giddy when Frankie Vallie gets going). However, that would have to be about Florida. Maybe I should do a similar project on Florida, just for the kick-ass repo name?? 
+
+Lastly, the dataset is pretty large so I couldn't be bothered to push it. In the unlikely case anyone else wants to have a go at this then please reach out to me.
 
 TODO: Redo architecture to make it readable for other people.
